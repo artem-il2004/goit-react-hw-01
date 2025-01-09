@@ -1,0 +1,20 @@
+.top {
+    color: white;
+    background-color: #212121;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+th,
+td {
+    border: 1px solid black;
+    padding: 5px 35px;
+    text-align: center;
+}
+.alternateRow {
+    background-color: lightgray;
+}
